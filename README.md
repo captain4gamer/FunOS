@@ -1,0 +1,2 @@
+# FunOS
+fun little project
